@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -622,9 +622,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: d4b9b91a-7a57-4be7-8d1b-21c5104a3423
+  cloudProjectId: b5aa5921-1538-45d3-a652-885d7546c6e7
   framebufferDepthMemorylessMode: 0
-  projectName: Claim_the_kingdom
+  projectName: Claim_the_kingdom (1)
   organizationId: dhruvpatel5738
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

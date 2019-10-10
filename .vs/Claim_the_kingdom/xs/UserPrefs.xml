@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2C73323-17D8-B34B-8DA3-91E34E437F39}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveMagicSpell.cs">
+    <Files>
+      <File FileName="Assets/MoveMagicSpell.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Claim_the_kingdom" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MoveMagicSpell.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="00c6966c-c211-4f0b-86da-df84a5e2a6b0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
